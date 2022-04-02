@@ -1286,8 +1286,8 @@
         <LexerType name="yaml" desc="YAML" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="e5e5e5" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="2" fgColor="ff9347" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
-			<WordsStyle name="COMMENT" styleID="1" fgColor="259421" bgColor="252421" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="ff0000" bgColor="252421" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+	    <WordsStyle name="COMMENT" styleID="1" fgColor="259421" bgColor="252421" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="e5e5e5" bgColor="252421" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="e5e5e5" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REFERENCE" styleID="5" fgColor="e5e5e5" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DOCUMENT" styleID="6" fgColor="e5e5e5" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
@@ -1302,7 +1302,7 @@
             <WordsStyle name="Selected Line" styleID="5" fgColor="000080" bgColor="FFFF4F" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="Current line background colour" styleID="6" bgColor="E8E8FF" fontStyle="0" />
         </LexerType>
-		<LexerType name="json" desc="JSON" ext="">
+	<LexerType name="json" desc="JSON" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C3BE98" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="1" fgColor="7fb1fd" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="2" fgColor="43ba50" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
@@ -1317,8 +1317,8 @@
             <WordsStyle name="KEYWORD" styleID="11" fgColor="ff9347" bgColor="252421" fontName="" fontStyle="1" fontSize="" keywordClass="instre1"/>
             <WordsStyle name="LD KEYWORD" styleID="12" fgColor="FF0000" bgColor="252421" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
             <WordsStyle name="ERROR" styleID="13" fgColor="FFFF80" bgColor="FF0000" fontName="" fontStyle="0" fontSize="" />		
-		</LexerType>
-		<LexerType name="java" desc="Java" ext="">
+	</LexerType>
+	<LexerType name="java" desc="Java" ext="">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="804000" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="11" fgColor="e5e5e5" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="ff9347" bgColor="252421" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
@@ -1336,7 +1336,7 @@
             <WordsStyle name="COMMENT DOC KEYWORD" styleID="17" fgColor="43ba50" bgColor="252421" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="COMMENT DOC KEYWORD ERROR" styleID="18" fgColor="ff0000" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
-		<LexerType name="sql" desc="SQL" ext="">
+	<LexerType name="sql" desc="SQL" ext="">
             <WordsStyle name="KEYWORD" styleID="5" fgColor="ff9347" bgColor="252421" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="7fb1fd" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="43ba50" bgColor="252421" fontName="" fontStyle="0" fontSize="" />
